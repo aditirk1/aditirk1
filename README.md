@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aditirk1
-- 👀 I’m interested in a lot of things! Cancer therapeutics, genetic engineering, pharmacology, computational modelling - these are only SOME of what I like learning about, and want to work on full-time.
+- 👋 Hi, I’m Aditi!
+- 👀 I’m interested in a lot of things - Cancer therapeutics, genetic engineering, pharmacology, computational modelling - these are only SOME of what I like learning about, and want to work on full-time.
 - 🌱 I’m currently learning a bunch of things in biotech!
 - 💞️ I’m looking to collaborate on any systems bio projects :)
 - 📫 How to reach me - here, or on linkedin!
