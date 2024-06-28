@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi!
 - 👀 I’m interested in a lot of things - Cancer therapeutics, genetic engineering, pharmacology, computational modelling - these are only SOME of what I like learning about, and want to work on full-time.
-- 🌱 I’m currently learning a bunch of things in biotech!
+- 🌱 I’m currently learning a bunch of things in biotech.
 - 💞️ I’m looking to collaborate on any systems bio projects :)
 - 📫 How to reach me - here, or on linkedin!
-- ⚡ Fun fact: I occasionally enjoy video games and playing the piano :)
+- ⚡ Fun fact: I enjoy video games and playing the piano
