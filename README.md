@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aditi!
 
-Biomedical Engineering grad student at Columbia with a background in cancer research, computational biology, and medical devices.
+Biomedical Engineering grad student at Columbia with a background in cancer research, computational biology, and biotech.
 
 🔨 **What drives me:** Building things that actually work for real people. I get a lot of ideas for making everyday tools better and wonder why they haven't been implemented yet - so I'm learning to build them myself.
 
