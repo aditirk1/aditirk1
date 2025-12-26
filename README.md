@@ -1,6 +1,13 @@
-- 👋 Hi, I’m Aditi!
-- 👀 I’m interested in a lot of things - cancer therapeutics, precision oncology, translational medicine - these are only SOME of what I like learning about, and want to work on full-time.
-- 🌱 I’m currently learning a bunch of things in EVERYTHING
-- 💞️ I’m looking to collaborate on any computational bio/ML for biology projects :)
-- 📫 How to reach me - here, or on linkedin!
-- ⚡ Fun fact: I enjoy video games and playing the piano
+## 👋 Hi, I'm Aditi!
+
+Biomedical Engineering grad student at Columbia with a background in cancer research, computational biology, and medical devices.
+
+🔨 **What drives me:** Building things that actually work for real people. I get a lot of ideas for making everyday tools better and wonder why they haven't been implemented yet - so I'm learning to build them myself.
+
+🎯 **Coding focus:** Shift towards user-friendly applications, privacy-first solutions, tools that enhance daily life
+
+🤝 **Open to collaborate on:** Projects that solve real problems, improve existing tools, or make technology more accessible and privacy-respecting
+
+📫 **Reach me:** [LinkedIn](https://linkedin.com/in/aditirk) | ar4997@columbia.edu
+
+⚡ Video games & piano enthusiast
